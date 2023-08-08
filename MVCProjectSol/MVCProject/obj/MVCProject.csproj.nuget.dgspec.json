@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\Source\\Repos\\review-site-project-vance-rackean-joe1\\MVCProjectSol\\MVCProject\\MVCProject.csproj": {}
+    "C:\\Users\\josep\\source\\repos\\review-site-project-vance-rackean-joe\\MVCProjectSol\\MVCProject\\MVCProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\Source\\Repos\\review-site-project-vance-rackean-joe1\\MVCProjectSol\\MVCProject\\MVCProject.csproj": {
+    "C:\\Users\\josep\\source\\repos\\review-site-project-vance-rackean-joe\\MVCProjectSol\\MVCProject\\MVCProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\Source\\Repos\\review-site-project-vance-rackean-joe1\\MVCProjectSol\\MVCProject\\MVCProject.csproj",
+        "projectUniqueName": "C:\\Users\\josep\\source\\repos\\review-site-project-vance-rackean-joe\\MVCProjectSol\\MVCProject\\MVCProject.csproj",
         "projectName": "MVCProject",
-        "projectPath": "C:\\Users\\josep\\Source\\Repos\\review-site-project-vance-rackean-joe1\\MVCProjectSol\\MVCProject\\MVCProject.csproj",
+        "projectPath": "C:\\Users\\josep\\source\\repos\\review-site-project-vance-rackean-joe\\MVCProjectSol\\MVCProject\\MVCProject.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\Source\\Repos\\review-site-project-vance-rackean-joe1\\MVCProjectSol\\MVCProject\\obj\\",
+        "outputPath": "C:\\Users\\josep\\source\\repos\\review-site-project-vance-rackean-joe\\MVCProjectSol\\MVCProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",

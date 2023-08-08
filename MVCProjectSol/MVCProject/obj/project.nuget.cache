@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ntu30tcFpPwFvnGHEfAT04o6yGEOGDGix9ArPR2Q1zwwPnnJeEtJqR374l5J1x8/TID0TvJYmJU5BgTOV0OFA==",
+  "dgSpecHash": "AUWGO5ik4cs+kCARSiBS4Wqxe8MIomFGsHVWQGZslwb+/Cq+GMyEk4QxmRcQrnItOj3vyyShlPh2vVG3NXfsnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\Source\\Repos\\review-site-project-vance-rackean-joe1\\MVCProjectSol\\MVCProject\\MVCProject.csproj",
+  "projectFilePath": "C:\\Users\\josep\\source\\repos\\review-site-project-vance-rackean-joe\\MVCProjectSol\\MVCProject\\MVCProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
